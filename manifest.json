@@ -1,6 +1,9 @@
 {
   "fetch": "git@github.com:usc-auv/",
   "projects": [
-    
+    {
+      "name": "miscellaneous",
+      "path": "miscellaneous"
+    }
   ]
 }
